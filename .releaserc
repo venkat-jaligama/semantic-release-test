@@ -9,7 +9,13 @@
                 "changelogFile": "CHANGELOG.md"
             }
         ],
-        "@semantic-release/github"
+        "@semantic-release/github",
+        [
+            "@semantic-release/git",
+            {
+                "assets": [ "CHANGELOG.md" ]
+            }
+        ],
     ],
     "release": {
         "getLastRelease": "last-release-git"
