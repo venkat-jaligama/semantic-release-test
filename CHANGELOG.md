@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [1.0.0](https://github.com/MattHodge/semantic-release-test/compare/v0.1.5...v1.0.0) (2018-11-11)
+
+
+### Features
+
+* **test:** clear all asd ([15964b0](https://github.com/MattHodge/semantic-release-test/commit/15964b0))
+
+
+### BREAKING CHANGES
+
+* **test:** This removes all ASD's from the test.txt file
+
 ## [0.1.5](https://github.com/MattHodge/semantic-release-test/compare/v0.1.4...v0.1.5) (2018-11-10)
 
 
