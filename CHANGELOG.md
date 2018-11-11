@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [2.0.0](https://github.com/MattHodge/semantic-release-test/compare/v1.0.0...v2.0.0) (2018-11-11)
+
+
+### Code Refactoring
+
+* **resource:** rename useguidedfailure argument on environment resource ([8d97085](https://github.com/MattHodge/semantic-release-test/commit/8d97085))
+
+
+### BREAKING CHANGES
+
+* **resource:** The useguidedfailure argument has been renamed use_guided_failure in the octopusdeploy_environment resource.
+
 # [1.0.0](https://github.com/MattHodge/semantic-release-test/compare/v0.1.5...v1.0.0) (2018-11-11)
 
 
