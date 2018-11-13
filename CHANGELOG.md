@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.1.0](https://github.com/MattHodge/semantic-release-test/compare/v2.0.0...v2.1.0) (2018-11-13)
+
+
+### Features
+
+* clear test.txt again ([13a8659](https://github.com/MattHodge/semantic-release-test/commit/13a8659))
+
 # [2.0.0](https://github.com/MattHodge/semantic-release-test/compare/v1.0.0...v2.0.0) (2018-11-11)
 
 
