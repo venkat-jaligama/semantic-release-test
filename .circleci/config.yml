@@ -5,5 +5,5 @@ jobs:
       - image: circleci/node:8
     steps:
       - checkout
-      - run: npm install @semantic-release/changelog @semantic-release/git
+      - run: npm install @semantic-release/changelog @semantic-release/git @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/exec @semantic-release/git semantic-release/release-notes-generator
       - run: npx semantic-release
