@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.2.0](https://github.com/MattHodge/semantic-release-test/compare/v2.1.0...v2.2.0) (2018-11-15)
+
+
+### Features
+
+* more asds ([3b9544b](https://github.com/MattHodge/semantic-release-test/commit/3b9544b))
+
 # [2.1.0](https://github.com/MattHodge/semantic-release-test/compare/v2.0.0...v2.1.0) (2018-11-13)
 
 
