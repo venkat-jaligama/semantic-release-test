@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.3.0](https://github.com/MattHodge/semantic-release-test/compare/v2.2.0...v2.3.0) (2018-11-17)
+
+
+### Features
+
+* add moar asd ([8782c55](https://github.com/MattHodge/semantic-release-test/commit/8782c55))
+
 # [2.2.0](https://github.com/MattHodge/semantic-release-test/compare/v2.1.0...v2.2.0) (2018-11-15)
 
 
